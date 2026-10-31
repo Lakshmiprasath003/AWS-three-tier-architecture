@@ -1,1 +1,20 @@
+# AWS Three-Tier Architecture – Project Screenshots
+
+This folder contains screenshots documenting the implementation and verification of my AWS Three-Tier Architecture project.
+
+## Screenshots Included
+
+1. AWS Networking Infrastructure
+2. Web Tier Deployment
+3. Application Tier Deployment
+4. Database Tier Deployment
+5. Network and Instance Security
+6. Internet-Facing Application Load Balancer
+7. Internal Application Load Balancer
+8. Nginx Reverse Proxy Configuration
+9. Flask Application and RDS Integration
+10. Complete Three-Tier Architecture Validation
+11. EC2 Auto Scaling (Bonus Task)
+
+These screenshots provide evidence of the AWS resource configurations, application deployment, database connectivity, load balancing, and Auto Scaling implementation.
 
