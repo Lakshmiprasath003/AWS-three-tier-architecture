@@ -1,4 +1,4 @@
-# AWS-three-tier-architecture
+9# AWS-three-tier-architecture
 AWS 3-Tier Architecture with EC2, RDS, ALB, Nginx and Auto Scaling
 
 # AWS Three-Tier Architecture with Auto Scaling
@@ -34,12 +34,6 @@ This project demonstrates the design and deployment of a secure, scalable, and h
 ## Screenshots
 
 Refer to the `screenshots/` folder for project implementation and verification evidence.
-
-## Source Code
-
-The application code and project instructions are based on the GUVI-provided Three-Tier Architecture repository.
-
-Original repository: https://github.com/Vennilavanguvi/Three-Tier-Architecture/
 
 ## Learning Outcomes
 
